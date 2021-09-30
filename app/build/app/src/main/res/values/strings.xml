@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EnglishApp</string>
+    <string name="notification_icon">Notification</string>
+    <string name="logo_icon">Logo</string>
+    <string name="background">Background</string>
+
+    <string name="logo_text">MyEnglish</string>
+    <string name="categories_text">Categories</string>
+    <string name="channel_text">Channels</string>
+    <string name="tourism">Tourism</string>
+    <string name="transport">Transport</string>
+    <string name="science">Science </string>
+    <string name="art">Art</string>
+    <string name="sport">Sport</string>
+
+    <string name="nature">Nature</string>
+    <string name="food">Food</string>
+    <string name="cinema">Cinema</string>
+    <string name="music">Music</string>
+    <string name="back">Back</string>
+    <string name="tourism1_text">This European capital is the world is biggest urban vineyard</string>
+    <string name="tourism2_text">Why you should never ride an elephant\non holiday</string>
+    <string name="tourism3_text">Sri Lanka: Everything you need to know\nto plan the perfect trip</string>
+
+</resources>
