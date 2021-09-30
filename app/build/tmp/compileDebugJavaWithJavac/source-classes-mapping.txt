@@ -1,0 +1,21 @@
+com/ann/englishapp/model/Category.java
+ com.ann.englishapp.model.Category
+com/ann/englishapp/BuildConfig.java
+ com.ann.englishapp.BuildConfig
+com/ann/englishapp/model/Channel.java
+ com.ann.englishapp.model.Channel
+com/ann/englishapp/ChannelPage.java
+ com.ann.englishapp.ChannelPage
+com/ann/englishapp/adapter/CategoryAdapter.java
+ com.ann.englishapp.adapter.CategoryAdapter
+ com.ann.englishapp.adapter.CategoryAdapter$CategoryViewHolder
+com/ann/englishapp/adapter/StartAdapter.java
+ com.ann.englishapp.adapter.StartAdapter
+com/ann/englishapp/Start.java
+ com.ann.englishapp.Start
+com/ann/englishapp/adapter/ChannelAdapter.java
+ com.ann.englishapp.adapter.ChannelAdapter
+ com.ann.englishapp.adapter.ChannelAdapter$1
+ com.ann.englishapp.adapter.ChannelAdapter$ChannelViewHolder
+com/ann/englishapp/MainActivity.java
+ com.ann.englishapp.MainActivity
