@@ -1,5 +1,5 @@
-# TravelCompany
+# English App
 
-Hi Humans!
+Hello!
 
-Here is programm about travel company
+Here is programm about studying English
