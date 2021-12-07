@@ -1,4 +1,4 @@
-# English App
+# App for learning English
 
 Hello!
 
